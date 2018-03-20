@@ -56,10 +56,10 @@ table {
 
                         
           #main {
-                margin:60px;
+                margin:40px;
                 width: 60%;
                 float: right;
-                padding: 30px;
+                padding: 10px;
                 margin-right: 170px; 
                 padding-bottom: 30px;
             }
@@ -91,6 +91,7 @@ header ul a li {
                 letter-spacing: 50px;
                 line-height: 100px;
                 text-transform: uppercase;
+                color: black;
             }
             
 /*------------------------------------------
@@ -99,7 +100,7 @@ header ul a li {
 
             .text {
     width: 50%;
-    margin-top: 120px;
+    margin-top: 70px;
     margin-left: 10px;
     float: left;
 }
@@ -123,7 +124,7 @@ header ul a li {
 
 }
 
-<<<<<<< HEAD
+
 
 
             .work1{
@@ -132,19 +133,18 @@ header ul a li {
                 float: left;
                 margin-right: 30px;
                 margin-left: 60px;
-                padding: 40px;
+                padding-bottom: 40px;
+                
             }
 
 
-=======
->>>>>>> parent of a877f87... bigchanges
             .work2 {
                 width: 90%;
-                z-index: -99;
                 float: left;
                 margin-right: 30px;
                 margin-left: 60px;
                 padding: 0px;
+                margin-top: -20px;
             }
 
              .work3 {
